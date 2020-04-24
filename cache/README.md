@@ -2,6 +2,11 @@
 
 This project is example cache system for python.
 
+## Install
+```
+pip install -r cache/requirements.txt
+```
+
 ## Run
 ```
 python cache/main.py
