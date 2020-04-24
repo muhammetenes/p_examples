@@ -1,4 +1,4 @@
-#Cache Control
+# Cache Control
 
 This project is example cache system for python.
 
@@ -7,7 +7,7 @@ This project is example cache system for python.
 python cache/main.py
 ```
 
-##Example
+## Example
 ```
 Which country
 Turkey
